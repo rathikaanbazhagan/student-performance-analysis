@@ -1,0 +1,9 @@
+Name,Gender,Department,Maths,Science,English,Attendance,Placement,Total,Average
+Ravi,M,IT,78,85,80,85,Yes,243,81.0
+Priya,F,CSE,88,92,90,92,Yes,270,90.0
+Arun,M,ECE,67,70,65,75,No,202,67.33333333333333
+Divya,F,IT,91,95,93,95,Yes,279,93.0
+Karthik,M,CSE,72,68,70,80,No,210,70.0
+Meena,F,ECE,84,88,86,90,Yes,258,86.0
+Suresh,M,IT,60,55,58,70,No,173,57.666666666666664
+Latha,F,CSE,89,90,92,93,Yes,271,90.33333333333333
